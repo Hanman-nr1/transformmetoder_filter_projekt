@@ -1,0 +1,26 @@
+# ==========================================
+# MATLAB temporära filer, autosave och cache
+# ==========================================
+*.asv
+*.m~
+*.slxc
+*.mex*
+slprj/
+
+# Kraschloggar och arbetsytor
+matlab.mat
+*.log
+
+# ==========================================
+# macOS-specifika dolda systemfiler
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ==========================================
+# Eventuella editorer / IDE (t.ex. VS Code)
+# ==========================================
+.vscode/
+.idea/
